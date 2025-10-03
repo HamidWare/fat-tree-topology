@@ -11,3 +11,8 @@ This repo implements a classic fat-tree datacenter topology and explores shortes
 - Phase 2 (k=8): builds the fat-tree graph and exports **all shortest simple paths** between two input nodes to `data/all_shortest_paths.csv`.
 
 ## Project structure
+src/ # Python scripts
+data/ # CSV outputs
+images/ # Visualization(s)
+docs/ # Assignment brief
+
